@@ -182,6 +182,11 @@ and more.
   products that let you buy, sell, and use your self custodied digital assets in
   a safe, simple, and secure way.
 
+- **[Vaultion](https://vaultion.org)**: Vaultion is a non-custodial crypto
+  escrow protocol. Funds lock in an open-source smart contract and release on
+  agreement, by timeout, or by a Kleros dispute ruling — supporting USDC, USDT,
+  DAI, and PYUSD with no account or KYC required.
+
 - **[Volmex](https://volmex.finance/)**: Volmex’s BVIV and EVIV Indices measure
   the 30-day expected volatility of Bitcoin and Ethereum respectively. Volmex
   builds a suite of products around the Volmex Implied Volatility Indices,
